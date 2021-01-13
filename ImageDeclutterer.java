@@ -4,7 +4,7 @@ import java.util.Scanner;
 import javax.imageio.ImageIO;
 import java.io.*;
 
-public class ImageCleaner {
+public class ImageDeclutterer {
 
     public static void main(String[] args) throws IOException {
         File picsFolder = new File(System.getProperty("user.dir") + "/pics");
